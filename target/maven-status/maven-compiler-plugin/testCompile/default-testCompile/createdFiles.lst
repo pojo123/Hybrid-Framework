@@ -1,0 +1,9 @@
+com\clc\test\cases\TC_Login_3.class
+com\clc\utility\Reporting.class
+com\clc\test\cases\TestCase_Login_1.class
+com\clc\test\cases\BaseClass.class
+com\clc\test\cases\TC_Login_DDT_2.class
+com\clc\utility\ReadConfig.class
+com\clc\utility\XLUtils.class
+com\clc\page\objects\LoginPage.class
+com\clc\page\objects\AddCustomerPage.class

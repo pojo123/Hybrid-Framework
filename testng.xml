@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<listeners>
+<listener class-name="com.clc.utility.Reporting" />
+</listeners>
+  <test name="ChromeTest">
+  <parameter name="browser" value="chrome" />
+    <classes>
+     <!--  <class name="com.clc.test.cases.TestCase_Login_1"/> -->
+      <!-- <class name="com.clc.test.cases.TC_Login_DDT_2" /> -->
+      <class name="com.clc.test.cases.TC_Login_3" />
+    </classes>
+  </test> 
+</suite>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="44143" started-at="2019-08-24T08:46:16Z" finished-at="2019-08-24T08:47:00Z">
+    <groups>
+    </groups>
+    <test name="ChromeTest" duration-ms="44143" started-at="2019-08-24T08:46:16Z" finished-at="2019-08-24T08:47:00Z">
+      <class name="com.clc.test.cases.TC_Login_3">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.clc.test.cases.TC_Login_3@735b478]" name="setUp" is-config="true" duration-ms="18166" started-at="2019-08-24T08:46:16Z" finished-at="2019-08-24T08:46:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addCustomer()[pri:0, instance:com.clc.test.cases.TC_Login_3@735b478]" name="addCustomer" duration-ms="23141" started-at="2019-08-24T08:46:34Z" finished-at="2019-08-24T08:46:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCustomer -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.clc.test.cases.TC_Login_3@735b478]" name="tearDown" is-config="true" duration-ms="2318" started-at="2019-08-24T08:46:58Z" finished-at="2019-08-24T08:47:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.clc.test.cases.TC_Login_3 -->
+    </test> <!-- ChromeTest -->
+  </suite> <!-- Suite -->
+</testng-results>
